@@ -11,7 +11,7 @@ const Footer = () => {
                 <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground font-bold text-sm">
                   ML
                 </div>
-                <span className="font-semibold">Triết học Mác–Lênin</span>
+                <span className="font-semibold">Kinh tế chính trị Mác–Lênin</span>
               </div>
               <p className="text-sm text-muted-foreground leading-relaxed">
                 Nghiên cứu cạnh tranh và độc quyền trong nền kinh tế thị trường 
@@ -28,7 +28,7 @@ const Footer = () => {
                 <li>• Lý luận cạnh tranh và độc quyền</li>
                 <li>• Cạnh tranh truyền thống vs Kinh tế số</li>
                 <li>• Case studies: Grab, Shopee, TikTok</li>
-                <li>• Ứng dụng triết học Mác–Lênin</li>
+                <li>• Ứng dụng kinh tế chính trị Mác–Lênin</li>
               </ul>
             </div>
 
@@ -54,7 +54,7 @@ const Footer = () => {
 
           <div className="border-t pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
             <p className="text-sm text-muted-foreground text-center md:text-left">
-              © 2025 Triết học Mác–Lênin MLN122. Website học thuật phục vụ nghiên cứu.
+              © 2025 Kinh tế chính trị Mác–Lênin MLN122. Website học thuật phục vụ nghiên cứu.
             </p>
             <div className="flex gap-4 text-sm text-muted-foreground">
               <a href="/chu_de.pdf" download className="hover:text-primary transition-smooth">

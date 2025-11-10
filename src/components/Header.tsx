@@ -11,7 +11,7 @@ const Header = () => {
           </div>
           <div className="flex flex-col">
             <h1 className="text-base md:text-lg font-semibold leading-tight">
-              Triết học Mác–Lênin
+              Kinh tế chính trị Mác–Lênin
             </h1>
             <p className="text-xs text-muted-foreground">
               Cạnh tranh & Độc quyền

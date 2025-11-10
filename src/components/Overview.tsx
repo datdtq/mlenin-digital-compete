@@ -29,7 +29,7 @@ const Overview = () => {
               Tổng quan nghiên cứu
             </h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              Nghiên cứu tập trung vào việc vận dụng các quy luật khách quan của triết học Mác–Lênin 
+              Nghiên cứu tập trung vào việc vận dụng các quy luật khách quan của kinh tế chính trị Mác–Lênin 
               để giải thích hiện tượng cạnh tranh trong nền kinh tế số
             </p>
           </div>

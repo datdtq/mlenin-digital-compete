@@ -19,7 +19,7 @@ const Hero = () => {
           
           <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             So sánh cạnh tranh truyền thống và cạnh tranh trong nền kinh tế số 
-            qua lăng kính triết học Mác–Lênin
+            qua lăng kính kinh tế chính trị Mác–Lênin
           </p>
           
           <div className="flex flex-wrap items-center justify-center gap-4 pt-4">

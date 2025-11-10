@@ -65,10 +65,10 @@ const PhilosophyApplication = () => {
         <div className="mx-auto max-w-6xl space-y-12">
           <div className="text-center space-y-4">
             <div className="inline-block rounded-lg bg-primary/10 px-3 py-1 text-sm text-primary font-medium">
-              Ứng dụng Triết học
+              Ứng dụng kinh tế chính trị Mác–Lênin
             </div>
             <h2 className="text-3xl md:text-4xl font-bold">
-              Vận dụng triết học Mác–Lênin
+              Vận dụng kinh tế chính trị Mác–Lênin
             </h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
               Giải thích hiện tượng cạnh tranh kinh tế số qua các quy luật khách quan 
@@ -110,7 +110,7 @@ const PhilosophyApplication = () => {
 
           <Card className="p-8 gradient-primary text-white">
             <div className="text-center space-y-4">
-              <h3 className="text-2xl font-bold">Kết luận triết học</h3>
+              <h3 className="text-2xl font-bold">Kết luận </h3>
               <p className="text-white/90 max-w-3xl mx-auto leading-relaxed">
                 Cạnh tranh trong nền kinh tế số là biểu hiện mới của các quy luật khách quan mà 
                 C.Mác và Ph.Ăngghen đã phát hiện ra. Mâu thuẫn giữa lực lượng sản xuất hiện đại 
