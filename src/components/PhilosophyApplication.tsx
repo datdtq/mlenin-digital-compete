@@ -68,7 +68,7 @@ const PhilosophyApplication = () => {
               Ứng dụng kinh tế chính trị Mác–Lênin
             </div>
             <h2 className="text-3xl md:text-4xl font-bold">
-              Vận dụng kinh tế chính trị Mác–Lênin
+              Góc độ triết học Mác–Lênin
             </h2>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
               Giải thích hiện tượng cạnh tranh kinh tế số qua các quy luật khách quan 
